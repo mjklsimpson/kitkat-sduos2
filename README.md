@@ -1,2 +1,6 @@
-# kitkat-sduos2
-cm11? 
+kitkat-sduos2
+=============
+
+let's make a repo!!!
+
+i love my gf
